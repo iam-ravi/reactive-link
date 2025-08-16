@@ -111,3 +111,26 @@
     top: 300px;
   }
 }
+
+.contact-us-btn{
+  color: #754ffe !important;
+  border-color: #754ffe !important;
+}
+.contact-us-btn:hover{
+  color: #fff !important;
+  border-color: #754ffe !important;
+  background-color: #754ffe;
+}
+
+.hero-text-primary {
+  color: #754ffe; 
+}
+
+.more-details-btn {
+  background-color: #0F172A;
+  border-color: #0F172A;
+}
+.more-details-btn:hover {
+  background-color: #070d1c;
+  border-color: #070d1c;
+}
